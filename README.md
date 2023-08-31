@@ -1,5 +1,5 @@
 # Data_Strcutures_And_Algorithms
-> In this repo, I will reimplement some algorithms and related problems with python
+> In this repo, I will reimplement some algorithms and related problems with python, based on the book "Python Lập trình thuật toán - Bùi Việt Hà".
 ## Search
 - LinearSearch
 - BinarySearch
