@@ -7,3 +7,11 @@
 - InsertionSort
 - SelectionSort
 - Bubble Sort
+## Recursion
+- CountDown
+- BinarySearch
+- Greatest common divisor
+- InsertionSort
+- SelectionSort
+- Generate all permutations according to minimal change
+- Generate all permutations by changing position
