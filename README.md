@@ -6,7 +6,7 @@
 ## Sort
 - InsertionSort
 - SelectionSort
-- Bubble Sort
+- BubbleSort
 ## Recursion
 - CountDown
 - BinarySearch
